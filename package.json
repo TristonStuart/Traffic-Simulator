@@ -1,0 +1,22 @@
+{
+  "name": "traffic-simulator",
+  "version": "0.0.1",
+  "description": "Traffic Simulator game in JS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristonStuart/Traffic-Simulator.git"
+  },
+  "author": "TDStuart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristonStuart/Traffic-Simulator/issues"
+  },
+  "homepage": "https://github.com/TristonStuart/Traffic-Simulator#readme",
+  "dependencies": {
+    "browserify": "^17.0.0"
+  }
+}
